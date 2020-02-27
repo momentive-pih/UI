@@ -1,0 +1,9 @@
+.tab-content {
+  max-height:400px;
+  overflow-y:auto;
+}
+
+.card-btm {
+    height: auto;
+    padding-bottom: 15px;
+}
