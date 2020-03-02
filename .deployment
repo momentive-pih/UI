@@ -1,2 +1,2 @@
 [config]
-command = \home\site\deployments\tools\deploy.cmd
+command = deploy.cmd
