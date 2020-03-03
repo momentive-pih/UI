@@ -4,11 +4,10 @@
   "engines" : {"node" : "12.13.0"},
   "scripts": {
     "ng": "ng",
-    "start": "node index.js",
-    "build": "ng build --prod",
     "test": "ng test",
     "lint": "ng lint",
-    "e2e": "ng e2e"
+    "e2e": "ng e2e",
+    "build": "ng build --prod --aot"
   },
   "private": true,
   "dependencies": {
